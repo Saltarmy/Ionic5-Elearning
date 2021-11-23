@@ -1,0 +1,7 @@
+{
+  "name": "quiz-natan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

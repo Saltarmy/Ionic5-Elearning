@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "quiz-natan",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
